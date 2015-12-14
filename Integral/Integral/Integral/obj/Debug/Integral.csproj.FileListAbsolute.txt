@@ -4,3 +4,9 @@ D:\Работа\CSharp\Integral\Integral\Integral\bin\Debug\Integral.exe
 D:\Работа\CSharp\Integral\Integral\Integral\bin\Debug\Integral.pdb
 D:\Работа\CSharp\Integral\Integral\Integral\obj\Debug\Integral.exe
 D:\Работа\CSharp\Integral\Integral\Integral\obj\Debug\Integral.pdb
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\bin\Debug\Integral.exe.config
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\obj\Debug\Integral.exe
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\obj\Debug\Integral.pdb
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\bin\Debug\Integral.exe
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\bin\Debug\Integral.pdb
+D:\Работа\CSharp\CSHarp\Integral\Integral\Integral\obj\Debug\Integral.csprojResolveAssemblyReference.cache

@@ -10,27 +10,31 @@ namespace Integral
     {
         static double f(double x)
         {
-            return Math.Cos(x) * x - 2;
+            return Math.Cos(x) *x-2;  //функция для подсчета интеграла
         }
+
+
+
+        // функция подсчета интеграла        
         static double CalcIntegral(double a, double b, int n)
         {
             int i;
             double result, h, x;
-            h = (b - a) / n;
+            h = (b - a) / n;            // шаг
             result = 0;
             x = a;
-            for (i = 0; i < n - 1; i++)
+            for (i = 0; i < n -1 ; i++)
             { 
                 result = f(x)+ result;
                     x = x + h;
             }
-            return result*h;
+            return Math.Abs(result*h);
         
         }
         static void Main(string[] args)
         {
             double integral;
-            integral = CalcIntegral(0,1,500);
+            integral = CalcIntegral(0,1.5,500);  // считаем интеграл от 0 до 1.количество разбиений 500
             Console.WriteLine(integral);
             Console.ReadLine();
 
