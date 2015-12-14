@@ -1,0 +1,5 @@
+D:\Работа\CSharp\CSHarp\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Работа\CSharp\CSHarp\Strings\Strings\bin\Debug\Strings.exe
+D:\Работа\CSharp\CSHarp\Strings\Strings\bin\Debug\Strings.pdb
+D:\Работа\CSharp\CSHarp\Strings\Strings\obj\Debug\Strings.exe
+D:\Работа\CSharp\CSHarp\Strings\Strings\obj\Debug\Strings.pdb
