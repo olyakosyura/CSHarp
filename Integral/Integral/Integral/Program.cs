@@ -10,7 +10,7 @@ namespace Integral
     {
         static double f(double x)
         {
-            return Math.Cos(x) *x-2;  //функция для подсчета интеграла
+            return Math.Cos(x)*x-2;  //функция для подсчета интеграла
         }
 
 
@@ -28,8 +28,9 @@ namespace Integral
                 result = f(x)+ result;
                     x = x + h;
             }
-            return Math.Abs(result*h);
-        
+            result = h * result;
+            return result;
+       
         }
         static void Main(string[] args)
         {
