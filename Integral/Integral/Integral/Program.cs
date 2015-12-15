@@ -35,7 +35,12 @@ namespace Integral
         static void Main(string[] args)
         {
             double integral;
-            integral = CalcIntegral(0,1.5,500);  // считаем интеграл от 0 до 1.количество разбиений 500
+Double a,b, n;
+Console.WriteLine('Input a,b and n');
+a=Console.ReadLine();
+b=Console.ReadLine();
+n=Console.ReadLine();
+            integral = CalcIntegral(a,b,n);  // считаем интеграл от 0 до 1.количество разбиений 500
             Console.WriteLine(integral);
             Console.ReadLine();
 
