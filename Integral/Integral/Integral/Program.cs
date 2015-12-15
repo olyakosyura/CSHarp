@@ -38,7 +38,7 @@ namespace Integral
 Double a,b, n;
 Console.WriteLine('Input a,b and n');
 a=Console.ReadLine();
-b=Console.ReadLine();
+b=Convert.ToDouble(Console.ReadLine());
 n=Console.ReadLine();
             integral = CalcIntegral(a,b,n);  // считаем интеграл от 0 до 1.количество разбиений 500
             Console.WriteLine(integral);
